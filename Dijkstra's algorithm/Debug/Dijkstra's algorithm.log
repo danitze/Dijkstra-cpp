@@ -1,0 +1,4 @@
+﻿  Dijkstra's algorithm.cpp
+d:\users\d.andrieiev\documents\visual studio 2017\projects\dijkstra's algorithm\dijkstra's algorithm\dijkstra's algorithm.cpp(101): warning C4018: '<': signed/unsigned mismatch
+d:\users\d.andrieiev\documents\visual studio 2017\projects\dijkstra's algorithm\dijkstra's algorithm\dijkstra's algorithm.cpp(115): warning C4018: '<': signed/unsigned mismatch
+  Dijkstra's algorithm.vcxproj -> d:\users\d.andrieiev\Documents\Visual Studio 2017\Projects\Dijkstra's algorithm\Debug\Dijkstra's algorithm.exe
